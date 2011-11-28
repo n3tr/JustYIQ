@@ -21,12 +21,12 @@
 		6A5C483A1484367500F602BA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
 		6A5C483B1484367500F602BA /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
 		6A5C483C1484367500F602BA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		6A5C483F1484367500F602BA /* JustYIQ-Info.plist */ = {isa = PBXFileReference; path = "JustYIQ-Info.plist"; sourceTree = "<group>"; };
+		6A5C483F1484367500F602BA /* JustYIQ-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "JustYIQ-Info.plist"; sourceTree = "<group>"; };
 		6A5C48411484367500F602BA /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6A5C48431484367500F602BA /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		6A5C48451484367500F602BA /* JustYIQ-Prefix.pch */ = {isa = PBXFileReference; path = "JustYIQ-Prefix.pch"; sourceTree = "<group>"; };
+		6A5C48451484367500F602BA /* JustYIQ-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "JustYIQ-Prefix.pch"; sourceTree = "<group>"; };
 		6A5C48471484367500F602BA /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
-		6A5C48491484367500F602BA /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		6A5C48491484367500F602BA /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		6A5C484A1484367500F602BA /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		6A5C484D1484367500F602BA /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
